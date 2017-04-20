@@ -24,11 +24,12 @@ paginate = 10
 #    url  = "/blog/"
 #    weight = 2
 
-[[menu.main]]
-    name = "Registration"
-    identifier = "registration"
-    url  = "/registration/"
-    weight = 2
+#TODO: fix below by adding partials for registration
+#[[menu.main]]
+#    name = "Registration"
+#    identifier = "registration"
+#    url  = "/registration/"
+#    weight = 2
 
 [[menu.main]]
     name = "Details"
