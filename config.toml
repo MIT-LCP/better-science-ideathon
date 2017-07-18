@@ -110,7 +110,7 @@ paginate = 10
     icon = "fa fa-flask"
     title = "MIT Better Science Ideathon. 23 April 2018."
     subtitle = "The first MIT Better Science Ideathon brings together teams of people involved in scientific research - including students, researchers, policy makers, publishers, and funders - to explore how the process of science can be improved. There will be a strong focus on how open science can accelerate scientific progress through fostering collaboration and reproducibility and by reducing the barriers to learning."
-    link_url = "/signup/"
+    link_url = "/register/"
     link_text = "Register your interest in the Better Science Ideathon"
 
 [params.features]
@@ -132,7 +132,7 @@ paginate = 10
     icon = "fa fa-flask"
     title = "Interested in joining us? "
     subtitle = "Sign up for more information."
-    link_url = "/signup/"
+    link_url = "/register/"
     link_text = "Register your interest."
 
 [params.sponsors]
