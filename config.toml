@@ -104,10 +104,10 @@ paginate = 10
 [params.welcome]
     enable = true
     icon = "fa fa-flask"
-    title = "MIT Better Science Hackathon. 23 April 2018."
-    subtitle = "The first MIT Better Science Datathon brings together teams of people involved in scientific research - from researchers themselves to policy makers, publishers, and funders - to explore how the process of science can be improved. There will be a strong focus on how open science can accelerate scientific progress through by fostering collaboration, quality, and reproducibility and by reducing the barriers to learning."
+    title = "MIT Better Science Ideathon. 23 April 2018."
+    subtitle = "The first MIT Better Science Ideathon brings together teams of people involved in scientific research - including students, researchers, policy makers, publishers, and funders - to explore how the process of science can be improved. There will be a strong focus on how open science can accelerate scientific progress through fostering collaboration and reproducibility and by reducing the barriers to learning."
     link_url = "/registration"
-    link_text = "Register your interest in the Better Science Hackathon"
+    link_text = "Register your interest in the Better Science Ideathon"
 
 [params.features]
     enable = true
@@ -115,7 +115,7 @@ paginate = 10
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
 
-[params.testimonials]
+[params.speakers]
     enable = true
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
@@ -126,12 +126,12 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-flask"
-    title = "Are you interested in attending?"
-    subtitle = "Space will be limited."
+    title = "Interested in joining us? "
+    subtitle = "Sign up for more information."
     link_url = "/registration"
-    link_text = "Register now for the Better Science Hackathon"
+    link_text = "Register your interest."
 
-[params.clients]
+[params.sponsors]
     enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
