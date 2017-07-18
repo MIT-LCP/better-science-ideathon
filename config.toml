@@ -96,10 +96,18 @@ paginate = 10
     search = true
 
 [params.carousel]
-    enable = true
+    enable = false
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
+
+[params.welcome]
+    enable = true
+    icon = "fa fa-flask"
+    title = "MIT Better Science Hackathon. 23 April 2018."
+    subtitle = "The first MIT Better Science Datathon brings together teams of people involved in scientific research - from researchers themselves to policy makers, publishers, and funders - to explore how the process of science can be improved. There will be a strong focus on how open science can accelerate scientific progress through by fostering collaboration, quality, and reproducibility and by reducing the barriers to learning."
+    link_url = "/registration"
+    link_text = "Register your interest in the Better Science Hackathon"
 
 [params.features]
     enable = true
