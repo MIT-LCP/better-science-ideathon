@@ -124,7 +124,7 @@ paginate = 10
     subtitle = ""
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "fa fa-flask"
     title = "Interested in joining us? "
     subtitle = "Sign up for more information."
