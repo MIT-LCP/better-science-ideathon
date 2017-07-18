@@ -120,7 +120,7 @@ paginate = 10
     # For more informtion take a look at the README.
 
 [params.speakers]
-    enable = false
+    enable = true
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
