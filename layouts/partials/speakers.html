@@ -19,16 +19,15 @@
                     {{ range .Site.Data.speakers }}
                     <li class="item">
                         <div class="testimonial same-height-always">
-                        <!-- TP temp remove
                             <div class="text">
                                 <p>{{ .text | markdownify }}</p>
                             </div>
-                            -->
                             <div class="bottom">
-                                <!-- TP temp remove
+                                <div class="icon"><i class="fa"></i>
+                                <!-- previously 
                                 <div class="icon"><i class="fa fa-quote-left"></i>
+                                --> 
                                 </div>
-                                -->
                                 <div class="name-picture">
                                     <img class="" alt="" src="{{ .avatar | absURL }}">
                                     <h5>{{ .name }}</h5>
