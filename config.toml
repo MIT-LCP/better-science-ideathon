@@ -43,9 +43,14 @@ paginate = 10
     weight = 4
 
 [[menu.main]]
-    name = "Sign up"
+    name = "Register"
     url  = "/register/"
-    weight = 4
+    weight = 5
+
+[[menu.main]]
+    name = "Discuss"
+    url  = "/discuss/"
+    weight = 6
 
 [params]
     viewMorePostLink = "/blog/"
@@ -75,7 +80,7 @@ paginate = 10
     email = "betterscience@mit.edu"
 
     about_us = "<p>Critical data is a loose affiliation of research labs at Massachusetts Institute of Technology who are engaged in research in and around \"Critical Data\", more specifically data that has could be harnessed to better the provision of healthcare.</p>"
-    copyright = "Copyright (c) 2017, MIT Critical Data; all rights reserved."
+    copyright = "Copyright (c) 2018, MIT Critical Data; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"

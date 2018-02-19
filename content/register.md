@@ -1,7 +1,7 @@
 +++
-title = "Sign up"
-description = "Sign up"
-keywords = ["Sign up"]
+title = "Register"
+description = "Register"
+keywords = ["Register"]
 +++
 
 If you would like to be the first to know when we open for registrations, sign up using the form below:
