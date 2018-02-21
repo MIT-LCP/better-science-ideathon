@@ -1,24 +1,34 @@
 +++
-title = "Program"
+title = "Program for the Better Science Ideathon"
 description = "Program"
 keywords = ["Program"]
 +++
 
-# Better Science Ideathon
+# Monday 23 April 2018
 
-## Monday 23 April 2018.
+The Better Science Ideathon is taking place at MIT, 1 Main St, Cambridge, MA 02142, USA. 
 
-8:00am  - 8:30am  - Registration  
-8:30am  - 8:40am  - ILP Welcome address  
-8:40am  - 8:45am  - Intro to the event  
-8:45am  - 9:00am  - Speaker 1  
-9:00am  - 9:15am  - Speaker 2  
-9:15am  - 9:30am  - Speaker 3  
-9:30am  - 9:45am  - Speaker 4  
-9:45am  - 10:00am - Speaker 5  
-10:00am - 10:15am - Speaker 6  
-10:15am - 10:30am - Coffee break  
-10:30am - 12:30pm - Team formation, initial brainstorming  
-12:30pm - 1:30pm  - Lunch  
-1:30pm  - 4:30pm  - Hack (?another word for this)  
-4:30pm  - 6:00pm  - Presentations  
+Please let us know if you have registered but are unable to attend so that we can open a space for someone on the waiting list.
+
+### Registration and welcome
+
+#### *08:00 - 08:30*: Registration  
+#### *08:30 - 08:40*: Welcome address  
+#### *08:40 - 08:45*: Introduction to the event  
+
+### Presentations and team formation
+
+#### *08:45 - 09:00*: Speaker 1  
+#### *09:00 - 09:15*: Speaker 2  
+#### *09:15 - 09:30*: Speaker 3  
+#### *09:30 - 09:45*: Speaker 4  
+#### *09:45 - 10:00*: Speaker 5  
+#### *10:00 - 10:15*: Speaker 6  
+#### *10:15 - 10:30*: Coffee break  
+#### *10:30 - 11:00*: Team formation & brainstorming  
+
+### Projects and presentations
+
+#### *11:00 - 17:00*: Projects (+ lunch & refreshments provided!)
+#### *17:00 - 18:00*: Presentations  
+<br />
