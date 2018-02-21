@@ -16,7 +16,7 @@ Please let us know if you have registered but are unable to attend so that we ca
 #### *08:30 - 08:40*: Welcome address  
 #### *08:40 - 08:45*: Introduction to the event  
 
-### Presentations and team formation
+### Invited talks and team formation
 
 #### *08:45 - 09:00*: Speaker 1  
 #### *09:00 - 09:15*: Speaker 2  
