@@ -38,19 +38,25 @@ paginate = 10
     weight = 3
 
 [[menu.main]]
+    name = "Speakers"
+    identifier = "speakers"
+    url  = "/speakers/"
+    weight = 4
+
+[[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Register"
     url  = "/register/"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     name = "Discuss"
     url  = "/discuss/"
-    weight = 6
+    weight = 7
 
 [params]
     viewMorePostLink = "/blog/"
@@ -130,6 +136,14 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Speakers"
+    subtitle = ""
+
+[params.mentors]
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Mentors"
     subtitle = ""
 
 [params.see_more]
