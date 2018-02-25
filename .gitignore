@@ -1,9 +1,6 @@
 # Data files
 *.csv
 
-# Picture files
-*.png
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -67,7 +64,3 @@ target/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-
-
-
-
