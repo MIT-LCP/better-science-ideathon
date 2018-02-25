@@ -14,7 +14,7 @@ Please let us know if you have registered but are unable to attend so that we ca
 
 #### *08:00 - 08:30*: Registration  
 #### *08:30 - 08:40*: Welcome address - John Roberts
-#### *08:40 - 08:45*: Introduction to the event - Leo Anthony Celi
+#### *08:40 - 08:45*: Introduction to the event - Tom Pollard and Alistair Johnson
 
 ### Invited talks and team formation
 
