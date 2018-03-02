@@ -17,7 +17,13 @@ Alistair Johnson is a research scientist at the Massachusetts Institute of Techn
 
 ## Tom Pollard
 
+Tom is a Research Scientist at the MIT Laboratory for Computational Physiology. Most recently he has been working with colleagues to release MIMIC-III, an openly-accessible critical care database. Prior to joining MIT in 2015, Tom completed his PhD at University College London, UK, where he explored models of health in critical care patients in an interdisciplinary project between the Mullard Space Science Laboratory and University College Hospital. Tom has a broad interest in how we can improve the way that critical care data is managed, shared, and analysed for the benefit of patients. He is a Fellow of the Software Sustainability Institute.
+
 ## Tristan Naumann
+
+Tristan Naumann is a Ph.D. candidate the Clinical Decision Making Group (MEDG) at MIT CSAIL, advised by Professor Peter Szolovits. His research focuses on exploring relationships in complex, unstructured healthcare data using natural language processing and unsupervised learning techniques. His work has been published in KDD, AAAI, AMIA, JMIR, Science Translational Medicine, and Nature Translational Psychiatry.
+
+While at MIT, Tristan has been an Instructor for HST.953 (Collaborative Data Science for Medicine) and co-authored its textbook, "Secondary Analysis of Electronic Health Records." He co-organized the NIPS 2017 Machine Learning for Health (ML4H) workshop and several "datathon" events, which bring together participants to address problems of clinical interest. He served as a mentor for the MIT Summer Research Program (MSRP), and has spent time as a Software Engineering Intern at Intel Corporation. Prior to MIT, Tristan was a Program Manager at Microsoft Corporation, an Associate Product Manager Intern at Google, and received B.S. and M.S degrees in computer science from Columbia University, where he was a MS-TA fellow and recipient of the Andrew P. Kosoresow Memorial Award for Outstanding Performance in TA-ing and Service.
 
 ## Christina Chen
 
@@ -33,6 +39,7 @@ Aaron Kaufman is a PhD candidate in Political Methodology and American Politics 
 
 ## Ned McCague
 
+Ned is a lecturer at MIT, teaching courses on global health informatics and data science in medicine.  He also works as a data scientist at Kyruus, where he focuses on using data to drive innovation and insights.  He has an MPH from BU in Biostatistics & Epidemiology and previously worked as a statistician for Blue Cross Blue Shield of Massachusetts.
 
 # Contact
 
