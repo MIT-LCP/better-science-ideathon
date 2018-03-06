@@ -31,6 +31,10 @@ John P.A. Ioannidis currently holds the C.F. Rehnborg Chair in Disease Preventio
 Ellen Finnie is Head, Scholarly Communications & Collections Strategy in the MIT Libraries.  
 She leads the MIT Libraries’ scholarly communications and collections strategy in support of the Libraries’ and MIT’s objectives, including in particular efforts to influence models of scholarly publishing and communication in ways that increase the impact and reach of MIT’s research and scholarship and which promote open, sustainable publishing and access models.  She leads a team focused on outreach efforts to the MIT community in support of scholarly publication reform and open access activities at MIT, and oversees copyright support services, content licensing policy and negotiations, and innovating in using the collections budget and purchasing power as a lever for positive change in the scholarly communications ecosystem. Ellen also hosts therapy dog events in the Libraries!
 
+## Joshua Hartshorne
+
+Joshua is an assistant professor of psychology at Boston College Department of Psychology, where he directs the Language Learning Laboratory. His research focuses on understanding what allows humans, but not current machines, to learn language – and why it is that children, despite their salient limitations of both cognition and experience, are so much more successful at language learning than adults. He has a particular interest in applying new and emerging methods (such as computational modeling and crowdsourcing) to core problems in the language sciences.
+
 # Mentors
 
 ## Jessica Polka
