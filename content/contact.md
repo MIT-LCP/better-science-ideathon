@@ -29,13 +29,9 @@ While at MIT, Tristan has been an Instructor for HST.953 (Collaborative Data Sci
 
 Christina Chen, MD is a physician scientist who is an Instructor at Harvard Medical School, staff nephrologist at Beth Israel Deaconess Medical, and a research scientist at the MIT Laboratory for Computational Physiology. She currently attends on the nephrology consult service at BIDMC and has an outpatient renal clinic where she works with medical students, residents, and fellows. With her background in engineering and medicine, she hopes to help bridge the gap between data scientists and clinicians to answer innovative questions. Her current research interests include studying acute kidney injury as well as using echocardiography to determine effects of cardiac dysfunction on outcomes.
 
-## Kenneth Paik
-
 ## Aaron Kaufman
 
 Aaron Kaufman is a PhD candidate in Political Methodology and American Politics at Harvard University. His research interests leverage cutting-edge methods in computer science and causal inference to answer substantive questions about public opinion, voting patterns, and elite behavior. Additionally, he produces open-source tools to help survey researchers conduct more efficient and unbiased research, and is committed to research transparency and open science.
-
-## Aaron Stupple
 
 ## Ned McCague
 
