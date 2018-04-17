@@ -19,12 +19,12 @@ Please let us know if you have registered but are unable to attend so that we ca
 ### Invited talks and team formation
 
 #### *08:45 - 09:05*: John Ioannidis
-#### *09:05 - 09:25*: Heather Pirowar  
+#### *09:05 - 09:25*: Heather Piwowar  
 #### *09:25 - 09:45*: Jeff Spies
 #### *09:45 - 10:05*: Ellen Finnie
 #### *10:05 - 10:25*: Andrew Gelman
 #### *10:25 - 10:45*: Coffee break  
-#### *10:45 - 12:00*: Introduction of additional mentors and Team formation
+#### *10:45 - 12:00*: Introduction of additional mentors and team formation
 
 ### Projects and presentations
 
