@@ -37,6 +37,13 @@ Aaron Kaufman is a PhD candidate in Political Methodology and American Politics 
 
 Ned is a lecturer at MIT, teaching courses on global health informatics and data science in medicine.  He also works as a data scientist at Kyruus, where he focuses on using data to drive innovation and insights.  He has an MPH from BU in Biostatistics & Epidemiology and previously worked as a statistician for Blue Cross Blue Shield of Massachusetts.
 
+## David Sasson
+
+David Sasson is a graduate student at the Harvard T.H. Chan School of Public Health studying Health Data Science. Prior to joining MIT Critical Data he completed his undergraduate degree in Biochemistry and held research appointments in private, government, and academic sectors. In addition to working in research, David has volunteered in medically underserved areas spanning the greater New York City area, rural Appalachia, and central Bolivia. His current interests include the microbiome, democratized AI, and the diminishing separations between biology and technology.
+
+## Anna Schlimm
+
+
 # Contact
 
 Please reach out to us if you have any questions or feedback - we'd love to hear from you!
